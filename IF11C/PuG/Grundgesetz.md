@@ -1,19 +1,8 @@
-# 1. Staaten
-
-Dreielementenlehre: Staatsgewalt, Staatsgebiet und Staatsvolk als Voraussetzungen um als Staat zu gelten<br>
-Staat, der alle Kriterien erfüllt, aber nicht anerkannt wird, ist nicht zwangsläufig ein Staat<br>
-Staat, der sich auf die Aufrechterhaltung der öffentlichen Ordnung beschränkt: Nachtwächterstaat<br>
-
-## 1. Aufgaben des Staats
-
-1. Äußere Sicherheit <br>Beziehungen zu anderen Staaten & Militär
-2. Innere Sicherheit<br>Polizei und Gerichte verhindern Chaos
-3. Rechtsordnung<br>Gesetze garantieren Gerechtigkeit und Rechtssicherheit
-4. Daseinsvorsorge<br>Staatliche Einrichtungen erhöhen den Lebensstandard (z.B. Theater, Schulen, Krankenhäuser, etc.)
-5. Soziale Sicherheit<br>Hilfe für benachteiligte Bevölkerungsgruppen (Alte, Arbeitslose, etc.)
-6. Förderung der wirtschaftlichen Entwicklung<br> Konjunkturprogramme, Subventionen, etc.
-7. Schutz der Lebensgrundlagen<br>Aktive Umweltpolitik des Staats
-8. Verwaltung<br>Leistungsverwaltung durch den Staat z.B. Sozialhilfe
+---
+layout: default
+title: "PuG - Grundgesetz"
+permalink: /PuG/Grundgesetz/
+---
 
 ## 2. Grundgesetz (24.5.1949)
 
@@ -89,24 +78,3 @@ Bürgerrechte gelten für **Deutsche und teils für ausländische Bürger**
 |Gewaltenteilung|Vertikale und horizontale Teilung politischer Macht|Polizei kann festnehmen, aber nicht verurteilen|
 |Sozialstaatlichkeit|- Ziel: sozialer Frieden<br>- Mittel: Sozialverischerungen & Mitbestimmungsrechte|ALGI&ALGII<br>Bafög<br>Recht auf JAV, Betriebsrat etc.|
 |Widerstandsrecht|Volk darf Widerstand leisten, sofern Gerichte und Parlamente nicht mehr handlungsfähig||
-
-## 3. Gewaltenteilung
-
-## Horizontale und Vertikale Gewaltenteilung
-
-||Legislative bzw. Gesetzgebung<br>(Parlamente und Volksvertretungen|Exekutive bzw. Vollziehende Gewalt <br>(Regierungen, Verwaltungen)|Judikative bzw. Rechtsprechung <br>(Gerichte)|
-|--|--|--|--|
-|Bundesebene|Bundestag<br>Bundesrat|Bundesregierung<br>Bundesverwaltungen|Bundesgerichtshof<br>Oberste Gerichte|
-|Landesebene|Landtage<br>Abgeordnetenhäuser<br>Bürgerschaften|Landesregierungen<br>Senate<br>Landesverwaltungen|Oberstes Landesgericht<br>Oberlandesgericht<br>Landgerichte<br>Amtsgerichte|
-|Kommunalebene<br>(Kreise, Städte, Gemeinden)|Kreistage<br>Stadt-/Gemeinderäte<br>Stadtverordnetenversammlungen|Kreisverwaltungen<br>Stadt-/Gemeindeverwaltungen|
-|**Vertikale Gewaltenteilung**|<===|**Horizontale Gewaltenteilung**|===>|
-
-## Medien als vierte Gewalt?
-
-|Pro|Contra|
-|--|--|
-|Medienverbreitung|Medienvielfalt|
-|Beeinflussungspotential|Aufklärung|
-|Wenig Qualitätssicherung||
-|Politisches Framing||
-|Potential von Beeinflussung von Wahlentscheidungen||
