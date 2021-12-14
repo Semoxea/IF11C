@@ -17,12 +17,12 @@
 * Passwort: Admin12345
 * Firewalls deaktiviert
 * IPv6 deaktiviert
-* Updates verschoben auf 16.11.21
+* Updates verschoben
 * IP-Adresse: 192.168.2.29
 * Subnetzmaske: 255.255.255.0
 * DNS-Server: 127.0.0.1
 
-### Windows Client
+### Windows Clientwoman
 
 #### HyperV Einstellungen
 
@@ -37,8 +37,28 @@
 * Passwort: Admin12345
 * Firewalls deaktiviert
 * IPv6 deaktiviert
-* Updates verschoben auf 18.11.21
+* Updates verschoben
 * IP-Adresse: 192.168.2.22
+* Subnetzmaske: 255.255.255.0
+* DNS-Server: 192.168.2.29
+
+### Windows Clientman
+
+#### HyperV Einstellungen
+
+* Pfad der VM auf Host: 
+* Größe der Festplatte: 20GB
+* Größe des Arbeitsspeichers: 2GB
+* Anzahl Prozessoren/Kerne: 1/1
+* Netzwerkkarte: Bridged
+* BS-Version: Windows 10 Education N
+* Servername: Clientman
+* Anmeldename: Admin
+* Passwort: Admin12345
+* Firewalls deaktiviert
+* IPv6 deaktiviert
+* Updates verschoben
+* IP-Adresse: 192.168.2.20
 * Subnetzmaske: 255.255.255.0
 * DNS-Server: 192.168.2.29
 
@@ -64,11 +84,12 @@ Ordnerstruktur
 |Computername|IP-Adresse|Schüler|Rolle|
 |--|--|--|--|
 |NETTMANN-PC01|192.168.2.22|Sandra|Client|
+|NETTMANN-PC02|192.168.2.20|Kevin|Client|
 |NETTSERVER|192.168.2.29|Lijon|Server|
 
 ![Netzwerkplan](../images/Networkplan.png)
 
-## Gruppen- & Benutzeranlage im AD
+### Gruppen- & Benutzeranlage im AD
 
 |Gruppe|Anmeldenamen|Kennwort|
 |--|--|--|
@@ -85,3 +106,58 @@ Ordnerstruktur
 |Personalverwaltung|hans-juergen.nettmann|hjn123|
 |Buchhaltung|melike.dosya|Melike123|
 
+## Doku KW 50
+
+* Neuer Client (Clientman) in Domäne aufgenommen
+* Home-Laufwerk für Domänenbenutzer komfiguriert
+* Netzwerkplan überarbeitet
+* NTFS-Rechte/Zugriff auf Netzlaufwerk konfiguriert
+
+### Home-Netzlaufwerk
+
+|Aufgabe|Umsetzung/Hinweise|
+|--|--|
+|Zugriffsberechtigte Personen oder Gruppe konfigurieren|Jeder User nur auf seine Inhalte|
+|Ordner anlegen und im Netzwerk freigeben|H:\\nettserver\Home|
+|NTFS-Rechte vergeben|User: Lesen & Schreiben<br>Admin: Vollzugriff|
+|Test mit verschiedenen Nutzern| erfolgreich|
+
+### Weitere Netzlaufwerke
+
+#### Ordner für den Verkauf
+
+|Aufgabe|Umsetzung/Hinweise|
+|--|--|
+|Zugriffsberechtigte Personen oder Gruppe konfigurieren|Thomas Denkert, Klaus Binderlein, Beate Koches|
+|Ordner anlegen und im Netzwerk freigeben|V:\\nettserver\Verkauf|
+|NTFS-Rechte vergeben|Lesen & Schreiben für alle Benutzer und Domain-Admin|
+|Test mit verschiedenen Nutzern|Binderlein & Denkert erfolgreich|
+
+#### Public: Austauschlaufwerk
+
+|Aufgabe|Umsetzung/Hinweise|
+|--|--|
+|Zugriffsberechtigte Personen oder Gruppe konfigurieren|Alle Domainmembers|
+|Ordner anlegen und im Netzwerk freigeben|P:\\nettserver\Public|
+|NTFS-Rechte vergeben|Domainmembers: Lesen & Schreiben<br>Administrator: Vollzugriff|
+|Test mit verschiedenen Nutzern| Binderlein & Denkert erfolgreich|
+
+#### Admin-Laufwerk
+
+|Aufgabe|Umsetzung/Hinweise|
+|--|--|
+|Zugriffsberechtigte Personen oder Gruppe konfigurieren|Administrator, Hans-Juergen Nettmann|
+|Ordner anlegen und im Netzwerk freigeben|Z:\\nettserver\Admin|
+|NTFS-Rechte vergeben|HJ-Nettmanm: Lesen<br>Administrator: Vollzugriff|
+|Test mit verschiedenen Nutzern| KW50: nicht erfolgreich|
+
+#### Weitere Laufwerke für den Verkauf
+
+|Benutzer|Laufwerk|A-Laufwerk|L-Laufwerk|
+|--|--|--|--|
+|Verkaufsleitung|Anleitungen für Neuzugänge, Verwaltungsdaten der Geschäftsleitung|Lesen + Schreiben|Lesen + Schreiben|
+|Geschäftsleitung|Verwaltungsdaten der Geschäftsleitung|Gar nichts|Vollzugriff|
+
+##### Note to self
+
+Adaptereinstellungen umstellen auf DHCP für ITS, auf statisch 192.168.2.22 für ITT
