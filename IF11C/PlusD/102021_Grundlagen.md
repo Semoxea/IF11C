@@ -1,4 +1,10 @@
-# Projekt
+---
+layout: default
+title: "PlusD - Grundlagen"
+permalink: /PlusD/Grundlagen
+---
+
+## Projekt
 
 ## Definition nach DIN Norm **69901-5:2009**
 
