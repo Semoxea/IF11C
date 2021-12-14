@@ -1,4 +1,10 @@
-# LS 1.2 Windows Server Installation
+---
+layout: default
+title: "ITS - Praxis - Client-Server-Installation"
+permalink: /ITS/Praxis/CSI
+---
+
+## LS 1.2 Windows Server Installation
 
 ## Verlaufsprotokoll der Installation der virtuellen Maschinen am 12.10.21 von Sandra Saueressig auf 00054572
 

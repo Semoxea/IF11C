@@ -1,4 +1,10 @@
-# Gruppeneinteilung
+---
+layout: default
+title: "ITS - Praxis - Gruppeneinteilung"
+permalink: /ITS/Praxis/Gruppeneinteilung
+---
+
+## Gruppeneinteilung
 
 ## Gruppen Labor Graf
 
