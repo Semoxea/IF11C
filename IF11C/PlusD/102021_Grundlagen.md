@@ -60,7 +60,7 @@ Projektmanagement ist die Planung, Überwachung, Steuerung und der Abschluss ein
 
 Ein Meilenstein ist ein überprüfbares Zwischenergebnis. Meilensteine markieren den Fortschritt eines Projekts innerhalb der Projektphasen.
 
-### Definition Ziel
+### SMART
 
 Ziele müssen SMART sein, um überprüft werden zu können
 
