@@ -1,13 +1,13 @@
 ---
 layout: default
-title: "Englisch"
-permalink: /Englisch/
+title: "English"
+permalink: /English/
 ---
 
 ## Transcripts
 
-- [Interview](/Englisch/Interview)
-- [BusinessLetter](/Englisch/BL)
+- [Interview](/English/Interview)
+- [BusinessLetter](/English/BL)
 
 ## Files
 

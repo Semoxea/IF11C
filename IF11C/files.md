@@ -8,7 +8,7 @@ permalink: /Files/
 
 - [AWP](#AWP)
 - [BGP](#BGP)
-- [Englisch](#Englisch)
+- [English](#English)
 - [ITS-Theorie](#ITS-Theorie)
 - [ITS-Praxis](#ITS-Praxis)
 - [ITT](#ITT)
@@ -34,3 +34,20 @@ permalink: /Files/
 
 ## BGP
 
+- [Servicearten](../IF11C/BGP/Files/Servicearten.pdf){:target="_blank"}
+- [Service-Management](../IF11C/BGP/Files/ServiceManagement.pdf){:target="_blank"}
+- [Aufbau/Ablauforganisation](../IF11C/BGP/Files/AufbauAblauforanisation.pdf){:target="_blank"}
+
+---
+
+## English
+
+- [Vocabulary](../IF11C/Englisch/Files/Vocabulary.pdf){:target="_blank"}
+- [Listening-SoftwareProblems](../IF11C/Englisch/Files/ListeningSoftware.pdf){:target="_blank"}
+- [InterviewBjarne](../IF11C/Englisch/Files/InterviewBjarne.pdf){:target="_blank"}
+- [DefectiveLetter](../IF11C/Englisch/Files/DefectiveLetter.pdf){:target="_blank"}
+- [BusinessLetterBasics](../IF11C/Englisch/Files/BusinessLetterBasics.pdf){:target="_blank"}
+- [BusinessLetterLayout](../IF11C/Englisch/Files/LetterLayout.pdf){:target="_blank"}
+- [InvitationTask1](../IF11C/Englisch/Files/invitationTask1.pdf){:target="_blank"}
+
+---
