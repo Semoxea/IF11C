@@ -107,3 +107,26 @@ Ziele müssen SMART sein, um überprüft werden zu können
 5. Beschreiben Sie was man im Projektmanagement unter einem Meilenstein versteht<br>
    Siehe Definition Meilenstein
 
+### Stoff für KA
+
+- Grundbegriffe des Projektmanagements - Nur Begriffe, nicht Erklärungen
+- Definition Projekt nach DIN Norm
+- Alle 7 Projektmerkmale (4 Stück mindestens!), ohne Beschreibung lernen, aber verstehen (anhand von Beispielen zuordnen)
+- Warum scheitern so viele IT-Projekte in der Praxis: Gründe/Beispiele nennen können (mindestens 4!)
+- Digitales Standardprojekt - Definition und typische Probleme
+- Digitales Pionierprojekt - Definition und typische Probleme
+- Projektmanagement - Wahr-Falsch-Fragen
+- Vorgehensmodelle sind raus
+- **Beteiligte des Projektmanagements nennen können**
+- **SMART**
+- Entscheidungsprüfung ob Projekt oder Arbeitsauftrag
+- Projektarten (Nur für Nachschreiber)
+- Unterteilung von IT-Projekten (Nur für Nachschreiber)
+- Digitales Disruptorprojekt (Nur für Nachschreiber)
+
+### Präsentationen
+
+- 10, max. 15 Minuten
+- Kreativer Einstieg
+- Zwei verschiedene Medien (Präsentation, Trello)
+- Praxisorientiert - Anhand eines Beispiels!

@@ -10,12 +10,16 @@ Here you can find my self-written summaries to the school lessons and the source
 
 Additionally you can find an alternative version of this repository [here](https://myLogic207.github.io).
 
-## **Please note that this website is still under construction! Most of the links won't work yet. The pdf-files are unavailable too.**
+## Disclaimer
 
-- [AWP](/AWP)
-- [BGP](/BGP)
-- [Englisch](/Englisch)
-- [ITS](/ITS)
-- [ITT](/ITT)
-- [PlusD](/PlusD)
-- [PuG](/PuG)
+Using this website may be considered illegal by some teachers. Please do not tell any teacher about it as I might have to take it down as a result. I am currently working on this website working on your mobile devices, but i cannot guarantee that it will work on all of your phones.
+
+## Navigation
+
+Please use the sidebar on the left side of the screen to navigate. There is a page for every subject with an overview of all the Transcripts as well as a collection of all pdf-files for the subject.
+
+### Feedback
+
+Any feedback to this website is welcome. Please contact me in the class chat or in private for any questions or feedback.
+
+### **Please note that this website is still under construction! Most of the files are not tracked yet.**

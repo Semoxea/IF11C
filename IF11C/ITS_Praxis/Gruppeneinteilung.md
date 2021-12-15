@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "ITS - Praxis - Gruppeneinteilung"
-permalink: /ITS/Praxis/Gruppeneinteilung
+title: "ITS-Praxis - Gruppeneinteilung"
+permalink: /ITSPraxis/Gruppeneinteilung
 ---
 
 ## Gruppeneinteilung

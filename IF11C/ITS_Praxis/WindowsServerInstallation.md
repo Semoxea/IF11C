@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "ITS - Praxis - Client-Server-Installation"
-permalink: /ITS/Praxis/CSI
+title: "ITS-Praxis - Client-Server-Installation"
+permalink: /ITSPraxis/CSI
 ---
 
 ## LS 1.2 Windows Server Installation
