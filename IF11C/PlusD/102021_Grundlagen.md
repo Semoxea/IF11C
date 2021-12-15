@@ -80,7 +80,7 @@ Ziele müssen SMART sein, um überprüft werden zu können
 - Personelle Veränderungen -> Projektdurchführung wird unmöglich
 - Widerstand der MA
 
-### Typische Probleme bei
+### Digitale Projekte und deren Probleme
 
 1. Digitalen Standardprojekten
    Definition: Standardprojekte können auf reiche Erfahrungen zurückgreifen und deshalb standardisiert und einfach abgewickelt werden.
@@ -106,23 +106,6 @@ Ziele müssen SMART sein, um überprüft werden zu können
    Siehe Definition Projektmanagement
 5. Beschreiben Sie was man im Projektmanagement unter einem Meilenstein versteht<br>
    Siehe Definition Meilenstein
-
-### Stoff für KA
-
-- Grundbegriffe des Projektmanagements - Nur Begriffe, nicht Erklärungen
-- Definition Projekt nach DIN Norm
-- Alle 7 Projektmerkmale (4 Stück mindestens!), ohne Beschreibung lernen, aber verstehen (anhand von Beispielen zuordnen)
-- Warum scheitern so viele IT-Projekte in der Praxis: Gründe/Beispiele nennen können (mindestens 4!)
-- Digitales Standardprojekt - Definition und typische Probleme
-- Digitales Pionierprojekt - Definition und typische Probleme
-- Projektmanagement - Wahr-Falsch-Fragen
-- Vorgehensmodelle sind raus
-- **Beteiligte des Projektmanagements nennen können**
-- **SMART**
-- Entscheidungsprüfung ob Projekt oder Arbeitsauftrag
-- Projektarten (Nur für Nachschreiber)
-- Unterteilung von IT-Projekten (Nur für Nachschreiber)
-- Digitales Disruptorprojekt (Nur für Nachschreiber)
 
 ### Präsentationen
 

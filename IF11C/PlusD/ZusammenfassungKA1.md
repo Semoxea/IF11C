@@ -8,8 +8,20 @@ permalink: /PlusD/Zsmf
 
 ## Definition nach DIN Norm **69901-5:2009**
 
-Ein Projekt ist ein Vorhaben, das im Wesentlichen durch Einmaligkeit
-der Bedingungen in ihrer Gesamtheit gekennzeichnet ist.
+Ein Projekt ist ein Vorhaben, das im Wesentlichen durch Einmaligkeit der Bedingungen in ihrer Gesamtheit gekennzeichnet ist.
+
+## Stoff für KA
+
+- Grundbegriffe des Projektmanagements - Nur Begriffe, nicht Erklärungen
+- Definition Projekt nach DIN Norm
+- Alle 7 Projektmerkmale (4 Stück mindestens!), ohne Beschreibung lernen, aber verstehen (anhand von Beispielen zuordnen)
+- Warum scheitern so viele IT-Projekte in der Praxis: Gründe/Beispiele nennen können (mindestens 4!)
+- Digitales Standardprojekt - Definition und typische Probleme
+- Digitales Pionierprojekt - Definition und typische Probleme
+- Projektmanagement - Wahr-Falsch-Fragen
+- **Beteiligte des Projektmanagements nennen können**
+- **SMART**
+- Entscheidungsprüfung ob Projekt oder Arbeitsauftrag -> pptx
 
 ## Grundbegriffe des Projektmanagements
 
@@ -37,7 +49,7 @@ der Bedingungen in ihrer Gesamtheit gekennzeichnet ist.
 - Personelle Veränderungen -> Projektdurchführung wird unmöglich
 - Widerstand der MA
 
-## Digitale Projekte#
+## Digitale Projekte
 
 - Digitalen Standardprojekten
    Definition: Standardprojekte können auf reiche Erfahrungen zurückgreifen und deshalb standardisiert und einfach abgewickelt werden.
@@ -51,7 +63,13 @@ der Bedingungen in ihrer Gesamtheit gekennzeichnet ist.
 
 - Ressourcenaufteilung
 - Zwischenergebnisse werden definiert und terminiert
-. 
+- Projektplanung
+- Projektentwicklung
+- 4 Phasen:
+  - Projektstart
+  - Planung
+  - Realisierung
+  - Projektabschluss
 
 ## Beteiligte des Projektmanagements
 
