@@ -37,6 +37,41 @@ der Bedingungen in ihrer Gesamtheit gekennzeichnet ist.
 - Personelle Veränderungen -> Projektdurchführung wird unmöglich
 - Widerstand der MA
 
-## Digitale Projekte
+## Digitale Projekte#
 
+- Digitalen Standardprojekten
+   Definition: Standardprojekte können auf reiche Erfahrungen zurückgreifen und deshalb standardisiert und einfach abgewickelt werden.
+   Bei digitalen Standardprojekten sind Probleme aus falsch verstandenem Erwartungsmanagement sehr häufig, z.B. Standard bereits veraltet, zu hohe Komplexität, Zeitdruck durch Arbeitgeber und Verschleppung von Entscheidungen durch zu viel Tagesgeschäft
 
+- Digitale Pionierprojekte
+   Definition: Pionierprojekte sind Pilotprojekte, die völlig neue Standards setzen. Sie sind meist sehr risikoreich, der Aufgabenumfang ist nur schwer einzuschätzen und man kann nur auf geringe Erfahrungswerte zurückgreifen.
+   Bei digitalen Pionierprojekten überwiegen Probleme im Umgang mit der neuen Technologie und Anbindungsprobleme mit der vorhandenen IT-Landschaft, z.B. fehlendes Know-How, Probleme werden in die nächste Phase verschoben oder unrealistische Zielvorstellungen
+
+## Projektmanagement
+
+- Ressourcenaufteilung
+- Zwischenergebnisse werden definiert und terminiert
+. 
+
+## Beteiligte des Projektmanagements
+
+- Investoren
+- Abteilungsleiter
+- Arbeitgeber
+- Nutzer
+- Lieferanten
+- Kunden
+- Öffentlichkeit
+- Gesetzgeber
+- Übrige Behörden
+- Medien
+
+## SMART
+
+Ziele müssen SMART sein, um überprüft werden zu können
+
+- S: Spezifisch WAS?
+- M: Messbar WIE?
+- A: Akzeptiert/attraktiv WICHTIG? WER?
+- R: Realistisch ERREICHBAR?
+- T: Terminiert WANN?
