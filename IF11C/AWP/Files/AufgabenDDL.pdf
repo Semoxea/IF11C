@@ -1,0 +1,34 @@
+	<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width,initial-scale=1.0">
+        <title>Mebis Login Service - Veraltete Anfrage</title>
+        <link rel="stylesheet" type="text/css" href="/idp/css/main.css">
+    </head>
+  	
+    <body>
+
+<div class="wrapper">
+        <div class="container">
+                <header>
+                                <img src="/idp/images/mebis-logo.png" alt="Mebis - Landesmedienzentrum Bayern">
+                                <h3>Mebis Login Service - Veraltete Anfrage</h3>
+                        </header>
+
+                <div class="content" style="text-align:center">
+                        <p>Ihre Login-Anfrage ist veraltet und muss erneuert werden. </p><br><p>Sie sehen diese Meldung wahrscheinlich, weil sie auf den Zurück-Knopf in Ihrem Webbrowser geklickt haben, während sie auf einer sicheren Webseite oder Applikation waren. Eventuell haben Sie auch ein Lesezeichen der Anmeldeseite erstellt, anstatt der Webseite, auf die Sie zugreifen möchten. Oder Sie haben auf einen Link geklickt, den Ihnen jemand gesendet hat, der denselben Fehler gemacht hat.</p> <br/> <p>Ohne diese Überprüfung könnten in manchen Web-Browsern Fehler entstehen, oder Sie würden wieder zurück zur Applikation geleitet. Daher wird Ihnen stattdessen diese Seite angezeigt.</p>                        <ul class="list list-help">
+                            <li class="list-help-item"><a href="https://www.mebis.bayern.de"><span class="item-marker">&rsaquo;</span> Zurück zur mebis-Startseite</a></li>
+                        </ul>
+            </div>
+        </div>
+
+        <footer>
+                <div class="container container-footer">
+                        <p class="footer-text">Mebis - Landesmedienzentrum Bayern</p>
+                </div>
+        </footer>
+
+    </div>
+    </body>
+</html>
