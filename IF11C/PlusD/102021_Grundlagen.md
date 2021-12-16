@@ -80,6 +80,19 @@ Ziele müssen SMART sein, um überprüft werden zu können
 - Personelle Veränderungen -> Projektdurchführung wird unmöglich
 - Widerstand der MA
 
+### Beteiligte des Projektmanagements
+
+- Investoren
+- Abteilungsleiter
+- Arbeitgeber
+- Nutzer
+- Lieferanten
+- Kunden
+- Öffentlichkeit
+- Gesetzgeber
+- Übrige Behörden
+- Medien
+
 ### Digitale Projekte und deren Probleme
 
 1. Digitalen Standardprojekten
