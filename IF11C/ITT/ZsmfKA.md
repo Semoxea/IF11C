@@ -8,7 +8,7 @@ permalink: /ITT/Zsmf
 
 ### Widerstände beim Raspberry Pi
 
-Bei jedem Pin außer 3 und 5 ein Widerstand von 50-65 kOhm
+- Pins haben eine Spannung von 3,3V
 
 ### Fehlersuche Python
 
@@ -29,12 +29,23 @@ Siehe Codesnippets
 ### Fehlersuche Verbindung
 
 - Layer 1: Kabel steckt nicht richtig, Pi hat keinen Strom etc.
-- Layer 2:
+- Layer 2: ???
 - Layer 3: Laptop ist nicht im selben Netz wie der Pi
 
 ### Horizontale Kommunikation
 
+- **Kommunikation innerhalb einer Ebene der Automatisierungspyramide**
+- Kommunikation zwischen Sensoren auf Leitebene über BUS-Kabel, ASI (Actuator-Sensor-Interface)
+
 ### Automatisierungspyramide
+
+![Automatisierungspyramide](images/Pyramide.JPG)
+
+- Unternehmensleitebene: CEO
+- Betriebsleitebene: Leitstellen, Überwachungsstellen bei Power Plants
+- Prozessleitebene: Prozesse
+- Steuerungsebene: HMI für Anzeige von Sensorenwerten, Steuerungen
+- Feldebene: Sensoren, Motoren, Verbindungskabel
 
 ### SCADA
 
