@@ -28,12 +28,10 @@ def runRight():
         GPIO.output(Out[current], GPIO.HIGH)
         time.sleep(duration)
         GPIO.output(Out[current], GPIO.LOW)
-        current
     else:
         GPIO.output(Out[current], GPIO.HIGH)
         time.sleep(duration)
         GPIO.output(Out[current], GPIO.LOW)
-        current 
 
 def quit():
     if GPIO.input(5) == GPIO.HIGH:

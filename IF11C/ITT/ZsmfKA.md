@@ -8,7 +8,19 @@ permalink: /ITT/Zsmf
 
 ### Widerstände beim Raspberry Pi
 
-- Pins haben eine Spannung von 3,3V
+- Spannung wenn Taster geschlossen ist: 3,3 V
+- Spannung wenn Taster offen ist: 0 V
+- Widerstand Bernhard Board: 820
+- GND: Ground/Erdung -> Immer 0 V
+- Eingänge des Raspi sind hochohmig -> Elektronik könnte kaputt gehen -> **Strom wird nie Richtung Raspi fließen**
+- LED des Boards halten maximal 2 mA aus
+- Bsp.: 3,3V + max 2mA -> 3,3 / 0,002 -> max. 1650 Ohm 
+- **U = R * I**
+
+![Tasterboard](./images/RaspiTestboard.jpg)
+![Tasterboard2](./images/TasterBoardGut.jpeg)
+![Tasterboard3](./images/TasterRechnung.jpeg)
+![Tafel](./images/Tafel.jpeg)
 
 ### Fehlersuche Python
 
