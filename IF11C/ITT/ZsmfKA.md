@@ -6,6 +6,14 @@ permalink: /ITT/Zsmf
 
 ## Zusammenfassung Kurzarbeit KW 51
 
+### Cyber-physische Systeme
+
+Ein cyber-physisches System, engl. „cyber-physical system“, bezeichnet den Verbund informatischer, softwaretechnischer Komponenten mit mechanischen und elektronischen Teilen, die über eine Dateninfrastruktur, wie z. B. das Internet, kommunizieren.
+
+### Teilsystem
+
+
+
 ### Widerstände beim Raspberry Pi
 
 - Spannung wenn Taster geschlossen ist: 3,3 V
