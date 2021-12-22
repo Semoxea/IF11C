@@ -52,7 +52,7 @@ permalink: /ITSPraxis/CSI
 
 #### HyperV Einstellungen
 
-* Pfad der VM auf Host: 
+* Pfad der VM auf Host: C:\ProgramData\Microsoft\Windows\Hyper-V
 * Größe der Festplatte: 20GB
 * Größe des Arbeitsspeichers: 2GB
 * Anzahl Prozessoren/Kerne: 1/1
@@ -71,11 +71,11 @@ permalink: /ITSPraxis/CSI
 ## Doku KW41
 
 Berechtigungsplanung
-![Berechtigungen](../images/Berechtigungen.png)
+![Berechtigungen](./images/Berechtigungen.png)
 Domänengruppen
-![DomaenenGruppen](../images/DomaenenGruppen.png)
+![DomaenenGruppen](./images/DomaenenGruppen.png)
 Ordnerstruktur
-![Ordnerstruktur](../images/Ordnerstruktur.png)
+![Ordnerstruktur](./images/Ordnerstruktur.png)
 
 ## Doku KW45
 
@@ -93,7 +93,7 @@ Ordnerstruktur
 |NETTMANN-PC02|192.168.2.20|Kevin|Client|
 |NETTSERVER|192.168.2.29|Lijon|Server|
 
-![Netzwerkplan](../images/Networkplan.png)
+![Netzwerkplan](./images/Networkplan.png)
 
 ### Gruppen- & Benutzeranlage im AD
 
@@ -115,7 +115,7 @@ Ordnerstruktur
 ## Doku KW 50
 
 * Neuer Client (Clientman) in Domäne aufgenommen
-* Home-Laufwerk für Domänenbenutzer komfiguriert
+* Home-Laufwerk für Domänenbenutzer konfiguriert
 * Netzwerkplan überarbeitet
 * NTFS-Rechte/Zugriff auf Netzlaufwerk konfiguriert
 
@@ -157,12 +157,18 @@ Ordnerstruktur
 |NTFS-Rechte vergeben|HJ-Nettmanm: Lesen<br>Administrator: Vollzugriff|
 |Test mit verschiedenen Nutzern| KW50: nicht erfolgreich|
 
-#### Weitere Laufwerke für den Verkauf
+#### Weitere Laufwerke
 
 |Benutzer|Laufwerk|A-Laufwerk|L-Laufwerk|
 |--|--|--|--|
 |Verkaufsleitung|Anleitungen für Neuzugänge, Verwaltungsdaten der Geschäftsleitung|Lesen + Schreiben|Lesen + Schreiben|
 |Geschäftsleitung|Verwaltungsdaten der Geschäftsleitung|Gar nichts|Vollzugriff|
+
+### Doku KW 51
+
+* Gruppenrichtlinien wurden hinzugefügt -> Jeder bekommt Eigene Dateien in Home kopiert
+* Public-Freigabe für jeden
+* Drucker wurde eingebunden
 
 ##### Note to self
 

@@ -1,17 +1,25 @@
 # Kanban
 
-|Vorteile|Nachteile|
-|--|--|
-|Laufende Arbeitsprozesse, Engpässe/Probleme, Verteilung der Arbeit schnell ersichtlich||
+## Präsentation
 
-## Ablauf
+### Einstieg
 
-- Visualisierung der aktuellen Arbeit und Probleme anhand eines Kanbanboards
-- Limitierung der parallelen Arbeitsprozesse auf max einen Prozess/Aufgabe pro Person (WorkInProgess-Limitierung)
-  - Limitierung der Karten pro Spalte -> Karte muss nach rechts wandern (Aufgabe muss erfüllt werden), bevor neue Karte genommen werden kann
-- Arbeitslast des Einzelnen verringert sich, wird aufs Team verteilt
-- Management über Kanban zwingt zur Behebung von Problemen, da Karte nicht getauscht werden kann
-- Vor Projektstart müssen Regeln festgelegt werden, z.B. ab wann Aufgabe als erledigt gilt
-- **Kadenzen**: reguläre Meetings zur Abgabe von Feedback, Besprechung von Problemen etc.
-- Kaizen: Prinzip der dauerhaften Verbesserung, kein Optimum/Perfektionismus erreichbar
+- Kreativer Einstieg über Rollenspiel
+- Lijon am Tisch, weiß nicht wie er sein Projekt organisieren soll
+- Ich sag ihm dass er es einfach in Spalten organisieren kann
+- Er "Woher kennst du denn sowas Tolles?"
+- Hast du noch nie was von Kanban gehört?
+- Kevin: "Hab ich da Kanban gehört? Hold my beer, ich hab da was vorbereitet"
 
+### Ursprünge
+
+- Ursprünge erklären, Management von Versorgungsketten
+- Heutzutage meist eher im Projektmanagement eingesetzt, aber immer noch das Hauptprinzip von Versorgungsketten in z.B: Supermärkten
+- Zukunftsausblick: Zusammenscließung mit anderen agilen Projektmanagement-Methoden für maximale Effizienz
+
+### Redeanteile
+
+- Ursprünge-Folie: Kevin
+- Funktionsweise: Sandra erklärt Theorie, Lijon macht Praxis-Beispiel an der Tafel
+- Prinzipe: Kevin macht Theorie, Lijon erklärt anhand des Kanban-Boards an der Tafel
+- Vor- und Nachteile: Sandra & Kevin?
