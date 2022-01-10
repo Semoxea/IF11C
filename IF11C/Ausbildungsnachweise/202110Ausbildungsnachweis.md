@@ -1,4 +1,10 @@
-# Ausbildungsnachweis 2021 10
+---
+layout: default
+title: "Ausbildungsnachweis 2021 10"
+permalink: /An2110/
+---
+
+## Ausbildungsnachweis 2021 10
 
 ## Woche 1
 
