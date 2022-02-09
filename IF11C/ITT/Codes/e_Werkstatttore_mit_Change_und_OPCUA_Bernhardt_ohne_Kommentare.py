@@ -35,20 +35,20 @@ for value in Inputs:
 for value in Outputs:
     GPIO.setup(value, GPIO.OUT)
 
-#Kommentar einfügen
+#Die URL einem OPCUA Serverobjekt zuweisen
 server=Server()
 url="opc.tcp://192.168.2.59:4840"
 server.set_endpoint(url)
 
-#Kommentar einfügen
+#Einen neuen Namens-/Addressbereich "OPCUA_Serverraum" anlegen
 name="OPCUA_Serverraum"
 addspace=server.register_namespace(name)
 node= server.get_objects_node();
 
-#Objekt Raspi Kommentar ergänzen
+#Ein Objekt Raspi mit der Bezeichnung "Raspi" erstellen
 Raspi=node.add_object(addspace,"Raspi")
 
-#Kommentar ergänzen
+#Dem Objekt "Raspi" ein Ordnerobjekt "myfolder" hinzufügen
 myfolder = Raspi.add_folder(addspace, "Schalter")
 
 #OPUA Datenpunkte/Variblen "Schalter1-4" und Changed in den Ordner "Schalter" festlegen
@@ -59,6 +59,7 @@ Schalter4 = myfolder.add_variable(addspace,"Schalter4",6.4)
 Changed = myfolder.add_variable(addspace,"Changed",6.5)
 Time = node.add_variable(addspace,"Time",0)
 
+# Schreibzugriff auf die Schalter erlauben
 Schalter1.set_writable()
 Schalter2.set_writable()
 Schalter3.set_writable()
@@ -66,7 +67,7 @@ Schalter4.set_writable()
 Changed.set_writable()
 Time.set_writable()
 
-#Kommentar ergänzen
+#Server starten
 server.start()
 print("Server startet auf {}",format(url))
 while True:
@@ -101,7 +102,7 @@ while True:
     #Ausgabe CLI/Shell
     #print(S[0],S[1],S[2],S[3],S[4],TIME)
 
-    #OPCUA-Nodes .....Kommentar ergänzen..... und damit an url versenden!
+    #OPCUA-Nodes mit den Werten 0-4 belegen und damit an url versenden!
     Schalter1.set_value(S[0])
     Schalter2.set_value(S[1])
     Schalter3.set_value(S[2])

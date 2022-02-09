@@ -13,7 +13,7 @@ permalink: /ITSPraxis/Gruppeneinteilung
 |   1   | Tobias Mayer     | 192.162.1.16 | 00054575       | Server              |
 |       | Viet Nguyen      | 192.162.1.18 | 00054580       | Client              |
 |       | Michael Heidler  | 192.162.1.14 | 00054594       | Client              |
-|   2   | Sandra           | 192.168.2.22 | 00054572       | Client              |
+|   2   | Sandra           | 192.168.2.24 | 00054572       | Client              |
 |       | Lijon            | 192.168.2.29 | 00054581       | Server              |
 |       | Kevin            | 192.168.2.20 | 00054578       | Client              |
 |   3   | Moritz v d Grün  | 192.168.3.4  | 00054586       | Server              |
