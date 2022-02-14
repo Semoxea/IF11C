@@ -120,9 +120,3 @@ Ziele müssen SMART sein, um überprüft werden zu können
 5. Beschreiben Sie was man im Projektmanagement unter einem Meilenstein versteht<br>
    Siehe Definition Meilenstein
 
-### Präsentationen
-
-- 10, max. 15 Minuten
-- Kreativer Einstieg
-- Zwei verschiedene Medien (Präsentation, Trello)
-- Praxisorientiert - Anhand eines Beispiels!
