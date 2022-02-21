@@ -33,11 +33,13 @@ permalink: /Files/
 
 ## BGP
 
-- [Servicearten](../IF11C/BGP/Files/Servicearten.pdf){:target="_blank"}
-- [Service-Management](../IF11C/BGP/Files/ServiceManagement.pdf){:target="_blank"}
-- [Aufbau/Ablauforganisation](../IF11C/BGP/Files/AufbauAblauforanisation.pdf){:target="_blank"}
-- [ITSM](../IF11C/BGP/Files/LS03_ITSM.pdf){:target="_blank"}
-- [Serviceanfragen](../IF11C/BGP/Files/LS04_Serviceanfragen.pdf){:target="_blank"}
+- [Servicearten](../IF11C/BGP/Files/LS01Servicearten.pdf){:target="_blank"}
+- [Service-Management](../IF11C/BGP/Files/LS01ServiceManagement.pdf){:target="_blank"}
+- [Aufbau/Ablauforganisation](../IF11C/BGP/Files/LS04.pdf){:target="_blank"}
+- [ITSM](../IF11C/BGP/Files/LS03.pdf){:target="_blank"}
+- [Serviceanfragen](../IF11C/BGP/Files/LS04.pdf){:target="_blank"}
+- [LS05](../IF11C/BGP/Files/LS05.pdf){:target="_blank"}
+
 
 ---
 

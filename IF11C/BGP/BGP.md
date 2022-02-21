@@ -6,10 +6,10 @@ permalink: /BGP/
 
 ## Transcripts
 
-- [BGP](/BGP/LS01)
-- [BGP](/BGP/LS02)
-- [BGP](/BGP/LS03)
-- [BGP](/BGP/LS04)
+- [LS01]](/BGP/LS01)
+- [LS02](/BGP/LS02)
+- [LS03](/BGP/LS03)
+- [LS04](/BGP/LS04)
 
 ## Files
 
