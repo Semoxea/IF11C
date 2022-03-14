@@ -65,3 +65,10 @@ permalink: /Files/
 - [TermineKurznachrichten](../IF11C/PuG/Files/TermineKurznachrichten.pdf){:target="_blank"}
 - [Foederalismus](../IF11C/PuG/Files/Foederalismus.pdf){:target="_blank"}
 - [Grundgesetzprinzipien](../IF11C/PuG/Files/Grundgesetzprinzipien.pdf){:target="_blank"}
+
+---
+
+## ITS-Praxis
+
+- [Projekt-Doku](../IF11C/ITS_Praxis/ProjektDoku.pdf){:target="_blank"}
+
