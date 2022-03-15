@@ -99,7 +99,7 @@ Ordnerstruktur
 
 |Gruppe|Anmeldenamen|Kennwort|
 |--|--|--|
-|Geschäftsleitung|hans-juergen.nettmann|hjn123|
+|Geschäftsleitung|hansjuergen.nettmann|hjn123|
 |Verkaufsleitung|thomas.denkert|Thomas123|
 |Verkauf|klaus.binderlein|Klaus123|
 |Verkauf|beate.koches|Beate123|

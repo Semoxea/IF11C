@@ -57,19 +57,22 @@ permalink: /PuG/Foederalismus/
 ### Aufgaben der Kommunen/Gemeinden
 
 1. Aufgaben der Gemeinde
-  - Lokale Verwaltung wie Standesamt, Baurecht, Umweltschutz, Meldeamt
-  - finanzielle Planung und Haushaltsplanung, fachliche Planung mit Gemeindeentwicklungsplan
-  - Freiwillige Aufgaben: kulturelle Angelegenheiten (z.B. Bücherei, Museum, Theater, Volkshochschule), Betrieb eines Schwimmbads, einer Sportanlage, Einrichtung und Pflege von Grünanlagen
-  - Pflichtaufgaben: Gemeindewahlen, Abwasserbeseitigung, Versorgungseinrichtungen, Verkehrseinrichtungen, Soziale Angelegenheiten, Feuerwehr, Allgemeinbildende Schulen, Bauleitplanung
-  - Weisungsaufgaben: Parlamentswahlen, Angelegenheiten der Ortspolizei, Meldewese, Standesamtwesen, Gewerberecht und Gaststättenrecht
+
+    - Lokale Verwaltung wie Standesamt, Baurecht, Umweltschutz, Meldeamt
+    - finanzielle Planung und Haushaltsplanung, fachliche Planung mit Gemeindeentwicklungsplan
+    - Freiwillige Aufgaben: kulturelle Angelegenheiten (z.B. Bücherei, Museum, Theater, Volkshochschule), Betrieb eines Schwimmbads, einer Sportanlage, Einrichtung und Pflege von Grünanlagen
+    - Pflichtaufgaben: Gemeindewahlen, Abwasserbeseitigung, Versorgungseinrichtungen, Verkehrseinrichtungen, Soziale Angelegenheiten, Feuerwehr, Allgemeinbildende Schulen, Bauleitplanung
+    - Weisungsaufgaben: Parlamentswahlen, Angelegenheiten der Ortspolizei, Meldewese, Standesamtwesen, Gewerberecht und Gaststättenrecht
 
 2. Mit welchen Problemen werden die Gemeinden bei ihren Aufgaben heute konfrontiert?
-  - Unterfinanzierung -> Der Bund erlässt Gesetzt, die die Gemeinden umsetzen müssen. Ausreichend finanzielle Unterstützung vom Bund gibt es nicht immer.
-  - Wenig Spielraum bei Investitionen durch Unterfinanzierung
-  - Lösung: Kooperation mit anderen Gemeinden
+
+    - Unterfinanzierung -> Der Bund erlässt Gesetzt, die die Gemeinden umsetzen müssen. Ausreichend finanzielle Unterstützung vom Bund gibt es nicht immer.
+    - Wenig Spielraum bei Investitionen durch Unterfinanzierung
+    - Lösung: Kooperation mit anderen Gemeinden
 
 3. Konnexitätsprinzip und Grund der Einführung dieser Regelung
 
+<br>
 
 1. Wie werden in der Gemeinde politische Entscheidungen getroffen?<br>
 Der Bürgermeister oder die Bürgermeisterin leitet in einer Stadt oder Gemeinde die Verwaltung. Er trifft wichtige Entscheidungen. Er oder sie entscheidet aber nicht allein. Auch der Stadtrat oder der Gemeinderat trifft wichtige Entscheidungen
@@ -77,3 +80,13 @@ Der Bürgermeister oder die Bürgermeisterin leitet in einer Stadt oder Gemeinde
 Der Gemeinderat überwacht den Bürgermeister und die Gemeindeverwaltung, insbesondere die Ausführung seiner Beschlüsse
 3. Welche Ämter findet man auf der Gemeinde?<br>
 Standesamt, Ordnungsamt, Kämmerei, Meldeamt
+
+### Wahlsystem
+
+- Das Wahlsystem bei der Bundestagswahl ist die personalisierte Verhältniswahl
+- Mit der Erststimme entscheiden sie, welcher Politiker aus ihrem Wahlkreis als Abgeordneter in den Bundestag einziehen soll
+- Die Zweitstimme vergibt der Wähler an eine Partei. Sie definieren die Machtverhältnisse im Parlament
+- Nur Parteien, die bundesweit mindestens 5%
+
+- Überhangmandate werden vergeben, wenn eine Partei mehr Direktmandate erringt, als ihr gemäß dem Zweitstimmenergenis in diesem Bundesland zusteht
+- Da die alleinige Praxis der Überhangsmandate 2008 und 2012 für verfassungswidrig erklärt wurde, werden diese seit 2013 durch Ausgleichsmandate korrigiert. So wird sichergestellt, dass die prozentualen Verhältnisse der Wahl eingehalten werden.
