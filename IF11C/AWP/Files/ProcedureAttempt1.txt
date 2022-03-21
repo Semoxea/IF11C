@@ -1,0 +1,13 @@
+DELIMITER //
+CREATE PROCEDURE Auftragsanlage(@Kilometerstand int, @Fehlerbeschreibung String, @KundenID int, @FahrzeugID int)
+BEGIN
+DECLARE @Kundenstatus boolean;
+SELECT Stammkunde INTO @Kundenstatus FROM tblkunden;
+DECLARE @Rabatt float;
+IF @Kundenstatus THEN @Rabatt = 0.05;
+ELSE THEN @Rabatt = 0;
+END IF;
+
+INSERT INTO tblauftraege (Kilometerstand, Fehlerbeschreibung, tblKunden_KundenID, VerantwortlicherMA, tblFahrzeuge_FahrzeugID, Rabatt)
+VALUES(@Kilometerstand, @Fehlerbeschreibung, @KundenID, @FahrzeugID, @Rabatt);
+END 
