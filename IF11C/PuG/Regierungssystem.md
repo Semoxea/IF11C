@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "PuG - Regierungssystem"
-permalink: /PuG/Regierungssystem/
+permalink: /PuG/Regierungssystem
 ---
 
 ## Repräsentative und direkte Demokratie

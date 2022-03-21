@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "PuG - Grundgesetz"
-permalink: /PuG/Grundgesetz/
+permalink: /PuG/Grundgesetz
 ---
 
 ## 2. Grundgesetz (24.5.1949)

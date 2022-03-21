@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "PuG - Staat"
-permalink: /PuG/Staat/
+permalink: /PuG/Staat
 ---
 
 ## 1. Staaten
