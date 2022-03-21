@@ -9,6 +9,7 @@ permalink: /PuG/
 - [Staat](/PuG/Staat)
 - [Grundgesetz](/PuG/Grundgesetz)
 - [Foederalismus](/PuG/Foederalismus)
+- [Regierungssystem](/PuG/Regierungssystem)
 
 ## Files
 

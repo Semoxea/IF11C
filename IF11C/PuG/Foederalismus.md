@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "PuG - Föderalismus"
-permalink: /PuG/Foederalismus/
+permalink: /PuG/Foederalismus
 ---
 
 ## 3. Föderalismus
