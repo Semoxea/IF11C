@@ -1,0 +1,24 @@
+DELIMITER //
+CREATE PROCEDURE Auftragsanlage(KundenID int, Kilometerstand int, FahrzeugNr int, Fehlerbeschreibung VARCHAR(100))
+BEGIN 
+DECLARE Kundenstatus tinyint(1); 
+DECLARE Rabatt DECIMAL(2,2) DEFAULT 0;
+DECLARE KilometerstandInTable int;
+DECLARE Vermerk varchar(100)
+
+SELCT Kilometerstand into KilometerstandInTable FROM tblFahrzeuge WHERE FahrzeugID=FahrzeugNr;
+IF KilometerstandInTable>Kilometerstand THEN
+	SET Vermerk = 'Kilometerstand ueberpruefen';
+ELSEIF KilometerstandInTable<15000 THEN
+	SET Vermerk = 'Keine Inspektion notwendig';
+ELSEIF KilometerstandInTable<30000 THEN
+	SET Vermerk = 'Richtiger Inspektionsbereich';
+ELSEIF KilometerstandInTable>30000 THEN
+	SET Vermerk = 'Inspektion ueberfaellig';
+END IF;
+
+SELECT Stammkunde INTO Kundenstatus FROM tblkunden WHERE KundenID=KundenID; 
+IF Kundenstatus = 1 THEN SET RABATT 0.05 END IF;
+INSERT INTO tblauftraege (Kilometerstand, Fehlerbeschreibung, KundenNr, FahrzeugNr, Rabatt) VALUES (Kilometerstand, Fehlerbeschreibung, KundenID, FahrzeugNr, @RABATT); 
+END //
+DELIMITER;

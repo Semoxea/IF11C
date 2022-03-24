@@ -6,5 +6,6 @@ permalink: /ITSPraxis/
 
 ## Transcripts
 
-[Gruppeneinteilung](/ITSPraxis/Gruppeneinteilung)
-[Server-Client-Installation](/ITSPraxis/SCI)
+- [Gruppeneinteilung](/ITSPraxis/Gruppeneinteilung)
+- [Server-Client-Installation](/ITSPraxis/SCI)
+- [Routing](/ITSPraxis/Routing)

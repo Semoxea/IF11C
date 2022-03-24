@@ -38,7 +38,7 @@ permalink: /Files/
 - [Aufbau/Ablauforganisation](../IF11C/BGP/Files/LS04.pdf){:target="_blank"}
 - [ITSM](../IF11C/BGP/Files/LS03.pdf){:target="_blank"}
 - [Serviceanfragen](../IF11C/BGP/Files/LS04.pdf){:target="_blank"}
-- [LS05](../IF11C/BGP/Files/LS05.pdf){:target="_blank"}
+- [LS05](../IF11C/BGP/Files/LS05.docx){:target="_blank"}
 
 
 ---

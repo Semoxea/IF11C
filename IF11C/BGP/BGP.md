@@ -6,7 +6,7 @@ permalink: /BGP/
 
 ## Transcripts
 
-- [LS01]](/BGP/LS01)
+- [LS01](/BGP/LS01)
 - [LS02](/BGP/LS02)
 - [LS03](/BGP/LS03)
 - [LS04](/BGP/LS04)
