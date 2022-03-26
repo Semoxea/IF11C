@@ -1,0 +1,17 @@
+DELIMITER //
+CREATE PROCEDURE Bestandsanpassung(BstNr int, ArtNrID int, Menge int)
+BEGIN
+  DECLARE MengeVerf int DEFAULT 0;
+  
+  SELECT Bestand into MengeVerf FROM artikel Where ArtNr=ArtNrID;
+
+  IF Menge > MengeVerf THEN SIGNAL SQLSTATE VALUE '01367';
+  ELSE 
+    BEGIN TRANSACTION;
+      UPDATE artikel SET Bestand = (MengeVerf-Menge) WHERE ArtNr=ArtNrID;
+      INSERT INTO bestellposition (BstNr, ArtNr, Menge) VALUES (BstNr, ArtNrID, Menge);
+    END TRANSACTION;
+  END IF;
+END
+//
+DELIMITER;
