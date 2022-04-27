@@ -8,6 +8,7 @@ permalink: /ITSTheorie/
 
 - [Client-Server-Netzwerk](/ITSTheorie/CSN)
 - [NeueStruktur](/ITSTheorie/NS)
+- [Vom Click zur Site](/ITSTheorie/LS03)
 
 ## Files
 

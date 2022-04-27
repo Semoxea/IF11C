@@ -1,0 +1,242 @@
+[
+	{
+		"MeasuringDeviceNr": 1,
+		"RoomNr": 100,
+		"Temperature": 21.3,
+		"CO2PPM": 1030,
+		"Alert": 1,
+		"Time": {"$date":"2022-01-10T09:15:43Z"}
+	},
+	{
+		"MeasuringDeviceNr": 1,
+		"RoomNr": 100,
+		"Temperature": 19.5,
+		"CO2PPM": 400,
+		"Alert": 0,
+		"Time": {"$date":"2022-01-10T09:30:44Z"}
+	},
+	{
+		"MeasuringDeviceNr": 1,
+		"RoomNr": 100,
+		"Temperature": 20.1,
+		"CO2PPM": 345,
+		"Alert": 0,
+		"Time": {"$date":"2022-01-10T09:45:22Z"}
+	},
+	{
+		"MeasuringDeviceNr": 1,
+		"RoomNr": 100,
+		"Temperature": 20.9,
+		"CO2PPM": 599,
+		"Alert": 0,
+		"Time": {"$date":"2022-01-10T10:00:25Z"}
+	},
+	{
+		"MeasuringDeviceNr": 1,
+		"RoomNr": 100,
+		"Temperature": 21.3,
+		"CO2PPM": 843,
+		"Alert": 0,
+		"Time": {"$date":"2022-01-10T10:15:12Z"}
+	},
+	{
+		"MeasuringDeviceNr": 1,
+		"RoomNr": 100,
+		"Temperature": 21.6,
+		"CO2PPM": 999,
+		"Alert": 0,
+		"Time": {"$date":"2022-01-10T10:30:13Z"}
+	},
+	{
+		"MeasuringDeviceNr": 1,
+		"RoomNr": 100,
+		"Temperature": 21.4,
+		"CO2PPM": 1045,
+		"Alert": 1,
+		"Time": {"$date":"2022-01-10T10:45:23Z"}
+	},
+	{
+		"MeasuringDeviceNr": 1,
+		"RoomNr": 100,
+		"Temperature": 21.3,
+		"CO2PPM": 1050,
+		"Alert": 1,
+		"Time": {"$date":"2022-01-10T11:00:09Z"}
+	},
+	{
+		"MeasuringDeviceNr": 1,
+		"RoomNr": 100,
+		"Temperature": 18.9,
+		"CO2PPM": 498,
+		"Alert": 0,
+		"Time": {"$date":"2022-01-10T11:15:27Z"}
+	},
+	{
+		"MeasuringDeviceNr": 1,
+		"RoomNr": 100,
+		"Temperature": 19.3,
+		"CO2PPM": 673,
+		"Alert": 0,
+		"Time": {"$date":"2022-01-10T11:30:14Z"}
+	},
+	{
+		"MeasuringDeviceNr": 2,
+		"RoomNr": 101,
+		"Temperature": 20.9,
+		"CO2PPM": 849,
+		"Alert": 0,
+		"Time": {"$date":"2022-01-10T09:15:43Z"}
+	},
+	{
+		"MeasuringDeviceNr": 2,
+		"RoomNr": 101,
+		"Temperature": 21.5,
+		"CO2PPM": 989,
+		"Alert": 0,
+		"Time": {"$date":"2022-01-10T09:30:44Z"}
+	},
+	{
+		"MeasuringDeviceNr": 2,
+		"RoomNr": 101,
+		"Temperature": 21.5,
+		"CO2PPM": 1132,
+		"Alert": 1,
+		"Time": {"$date":"2022-01-10T09:45:22Z"}
+	},
+	{
+		"MeasuringDeviceNr": 2,
+		"RoomNr": 101,
+		"Temperature": 18.3,
+		"CO2PPM": 324,
+		"Alert": 0,
+		"Time": {"$date":"2022-01-10T10:00:25Z"}
+	},
+	{
+		"MeasuringDeviceNr": 2,
+		"RoomNr": 101,
+		"Temperature": 19.1,
+		"CO2PPM": 534,
+		"Alert": 0,
+		"Time": {"$date":"2022-01-10T10:15:12Z"}
+	},
+	{
+		"MeasuringDeviceNr": 2,
+		"RoomNr": 101,
+		"Temperature": 20.3,
+		"CO2PPM": 933,
+		"Alert": 0,
+		"Time": {"$date":"2022-01-10T10:30:13Z"}
+	},
+	{
+		"MeasuringDeviceNr": 2,
+		"RoomNr": 101,
+		"Temperature": 21.4,
+		"CO2PPM": 1096,
+		"Alert": 1,
+		"Time": {"$date":"2022-01-10T10:45:23Z"}
+	},
+	{
+		"MeasuringDeviceNr": 2,
+		"RoomNr": 101,
+		"Temperature": 19.5,
+		"CO2PPM": 450,
+		"Alert": 0,
+		"Time": {"$date":"2022-01-10T11:00:09Z"}
+	},
+	{
+		"MeasuringDeviceNr": 2,
+		"RoomNr": 101,
+		"Temperature": 20.9,
+		"CO2PPM": 824,
+		"Alert": 0,
+		"Time": {"$date":"2022-01-10T11:15:27Z"}
+	},
+	{
+		"MeasuringDeviceNr": 2,
+		"RoomNr": 101,
+		"Temperature": 21.3,
+		"CO2PPM": 1001,
+		"Alert": 1,
+		"Time": {"$date":"2022-01-10T11:30:14Z"}
+	},
+	{
+		"MeasuringDeviceNr": 3,
+		"RoomNr": 102,
+		"Temperature": 20.9,
+		"CO2PPM": 432,
+		"Alert": 0,
+		"Time": {"$date":"2022-01-10T09:15:43Z"}
+	},
+	{
+		"MeasuringDeviceNr": 3,
+		"RoomNr": 102,
+		"Temperature": 21.1,
+		"CO2PPM": 931,
+		"Alert": 0,
+		"Time": {"$date":"2022-01-10T09:30:44Z"}
+	},
+	{
+		"MeasuringDeviceNr": 3,
+		"RoomNr": 102,
+		"Temperature": 21.2,
+		"CO2PPM": 1012,
+		"Alert": 1,
+		"Time": {"$date":"2022-01-10T09:45:22Z"}
+	},
+	{
+		"MeasuringDeviceNr": 3,
+		"RoomNr": 102,
+		"Temperature": 19.1,
+		"CO2PPM": 401,
+		"Alert": 0,
+		"Time": {"$date":"2022-01-10T10:00:25Z"}
+	},
+	{
+		"MeasuringDeviceNr": 3,
+		"RoomNr": 102,
+		"Temperature": 19.8,
+		"CO2PPM": 631,
+		"Alert": 0,
+		"Time": {"$date":"2022-01-10T10:15:12Z"}
+	},
+	{
+		"MeasuringDeviceNr": 3,
+		"RoomNr": 102,
+		"Temperature": 20.3,
+		"CO2PPM": 834,
+		"Alert": 0,
+		"Time": {"$date":"2022-01-10T10:30:13Z"}
+	},
+	{
+		"MeasuringDeviceNr": 3,
+		"RoomNr": 102,
+		"Temperature": 20.9,
+		"CO2PPM": 942,
+		"Alert": 0,
+		"Time": {"$date":"2022-01-10T10:45:23Z"}
+	},
+	{
+		"MeasuringDeviceNr": 3,
+		"RoomNr": 102,
+		"Temperature": 21.2,
+		"CO2PPM": 998,
+		"Alert": 0,
+		"Time": {"$date":"2022-01-10T11:00:09Z"}
+	},
+	{
+		"MeasuringDeviceNr": 3,
+		"RoomNr": 102,
+		"Temperature": 21.3,
+		"CO2PPM": 1042,
+		"Alert": 1,
+		"Time": {"$date":"2022-01-10T11:15:27Z"}
+	},
+	{
+		"MeasuringDeviceNr": 3,
+		"RoomNr": 102,
+		"Temperature": 19.3,
+		"CO2PPM": 444,
+		"Alert": 0,
+		"Time": {"$date":"2022-01-10T11:30:14Z"}
+	}
+]
